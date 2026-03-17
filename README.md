@@ -1,16 +1,33 @@
-# React + Vite
+SIP Wealth Predictor
+A web-based financial tool built with React and Recharts to help users visualize the power of compounding.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features:
+Interactive sliders for Monthly Investment and Tenure.
 
-Currently, two official plugins are available:
+Dynamic Area Chart showing wealth growth over time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Real-time calculation of Invested Amount vs. Estimated Returns.
 
-## React Compiler
+🛠️ Tech Stack:
+Frontend: React.js (Vite)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Charts: Recharts API
 
-## Expanding the ESLint configuration
+Deployment: Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git add ., git commit -m "Update README with project details", and git push.
+
+Step 3: Add it to your Resume
+Don't wait! Add this to your "Projects" section immediately.
+
+Format it like this:
+
+SIP Wealth Predictor | React, Recharts, Vite
+
+Developed a responsive web application to calculate and visualize SIP (Systematic Investment Plan) returns.
+
+Utilized Recharts to render dynamic data visualizations, providing users with a clear growth trajectory of their investments.
+
+Deployed via GitHub/Netlify with continuous integration for seamless updates.
+
+Live Link: [Your Netlify URL] | Code: [Your GitHub URL]

@@ -1,33 +1,31 @@
-SIP Wealth Predictor
-A web-based financial tool built with React and Recharts to help users visualize the power of compounding.
+# 📈 SIP Wealth Predictor
 
-✨ Features:
-Interactive sliders for Monthly Investment and Tenure.
+A high-performance, interactive financial tool built with **React** and **Recharts** to help users visualize the power of compounding through Systematic Investment Plans (SIP).
 
-Dynamic Area Chart showing wealth growth over time.
+## 🚀 Live Demo
+**[View Live Project](https://priyanshu-sip-tracker.netlify.app)** *(Replace with your actual Netlify link)*
 
-Real-time calculation of Invested Amount vs. Estimated Returns.
+## ✨ Key Features
+* **Interactive Visualizations:** Dynamic Area Charts powered by Recharts to show wealth growth over time.
+* **Real-time Calculations:** Instant feedback on Estimated Returns and Total Wealth based on Monthly Investment, Expected Return Rate, and Time Period.
+* **Responsive Design:** Fully optimized for mobile and desktop viewing.
+* **Data Accuracy:** Implements standard compounding interest formulas for financial precision.
 
-🛠️ Tech Stack:
-Frontend: React.js (Vite)
+## 🛠️ Tech Stack
+* **Frontend:** React.js (Vite)
+* **Charts:** Recharts
+* **Styling:** CSS3 (Modern Flexbox/Grid)
+* **Deployment:** Netlify
 
-Charts: Recharts API
+## 📸 Preview
+![Project Screenshot]![SIP Tracker Dashboard](./screenshot.png)
 
-Deployment: Netlify
-
-git add ., git commit -m "Update README with project details", and git push.
-
-Step 3: Add it to your Resume
-Don't wait! Add this to your "Projects" section immediately.
-
-Format it like this:
-
-SIP Wealth Predictor | React, Recharts, Vite
-
-Developed a responsive web application to calculate and visualize SIP (Systematic Investment Plan) returns.
-
-Utilized Recharts to render dynamic data visualizations, providing users with a clear growth trajectory of their investments.
-
-Deployed via GitHub/Netlify with continuous integration for seamless updates.
-
-Live Link: [Your Netlify URL] | Code: [Your GitHub URL]
+## 📂 Project Structure
+```text
+my-app/
+├── src/
+│   ├── components/  # Reusable UI components
+│   ├── App.jsx      # Main application logic
+│   └── main.jsx     # Entry point
+├── public/          # Static assets
+└── package.json     # Project dependencies

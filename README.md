@@ -3,8 +3,7 @@
 A high-performance, interactive financial tool built with **React** and **Recharts** to help users visualize the power of compounding through Systematic Investment Plans (SIP).
 
 ## 🚀 Live Demo
-**[View Live Project](https://priyanshu-sip-tracker.netlify.app)** *(Replace with your actual Netlify link)*
-
+**[View Live Project](https://priyanshu-sip-tracker.netlify.app)**
 ## ✨ Key Features
 * **Interactive Visualizations:** Dynamic Area Charts powered by Recharts to show wealth growth over time.
 * **Real-time Calculations:** Instant feedback on Estimated Returns and Total Wealth based on Monthly Investment, Expected Return Rate, and Time Period.
